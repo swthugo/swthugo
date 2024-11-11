@@ -1,4 +1,4 @@
-<h3 align="center">Hello, World! 👋 I'm Hugo Siu </h3>
+<h2 align="center">Hello, World! 👋 I'm Hugo Siu </h2>
 <h4 align="center">Full-stack developer with a love for crafting clean code and elegant designs</h4>
 
 #### 💻 Tech Stack:
